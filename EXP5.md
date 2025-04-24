@@ -48,15 +48,8 @@ except:
 
 
 
-
-
-
-
-
-
-
-
 ### Output:
+![image](https://github.com/user-attachments/assets/a4b7b558-1ba1-4df3-b4fd-2041d51d405e)
 
 
 
